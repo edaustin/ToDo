@@ -1,0 +1,2 @@
+/data/Dropbox/DroidSpaceNew/ToDo/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-694bab55efc7705a041837bc89cdde8adc0cee26.jar
+/data/Dropbox/DroidSpaceNew/ToDo/app/build/intermediates/classes/debug

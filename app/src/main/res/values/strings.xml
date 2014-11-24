@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">ToDo</string>
+  	<string name="menu_insert">Add Item</string>
+  	<string name="menu_delete">Delete Todo</string>
+  	<string name="todo_summary">Summary</string>
+  	<string name="todo_description">Delete Todo</string>
+ 	<string name="todo_edit_summary">Summary</string>
+  	<string name="todo_edit_description">Description</string>
+  	<string name="todo_edit_confirm">Confirm</string>
+    <string name="text2">---</string>
+    <string name="text3">---</string>
+
+</resources>
