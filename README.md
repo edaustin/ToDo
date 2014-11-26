@@ -29,7 +29,6 @@ Enhancements TBC.
 
 Probably would rewrite entire from scratch as a more performant implementation using:
 
-Gridview rather than ListView.
 
 Probably would use a Content Provider/Resolver and a Contract to abstract the data away from the implementation.
 
